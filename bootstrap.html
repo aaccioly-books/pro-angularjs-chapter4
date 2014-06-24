@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--suppress XmlInvalidId -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
@@ -73,6 +74,44 @@
             <td>Madrid</td>
         </tr>
     </table>
+</div>
+<div class="panel">
+    <h3 class="panel-header">Form Elements</h3>
+
+    <div class="form-group">
+        <label for="username">Name:</label>
+        <input id="username" name="name" class="form-control" type="text"/>
+
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input id="email" name="email" class="form-control" type="text"/>
+    </div>
+
+    <div class="radio">
+        <label>
+            <input value="yes" name="junkmail" type="radio" checked/>
+            Yes, send me endless junk mail
+        </label>
+    </div>
+
+    <div class="radio">
+        <label>
+            <input value="no" name="junkmail" type="radio"/>
+            No, I never want to hear from you again
+
+        </label>
+    </div>
+
+    <div class="checkbox">
+        <label>
+            <input type="checkbox"/>
+            I agree to the terms and conditions.
+        </label>
+    </div>
+
+    <input class="btn btn-primary" value="Subscribe" type="submit"/>
 </div>
 </body>
 </html>

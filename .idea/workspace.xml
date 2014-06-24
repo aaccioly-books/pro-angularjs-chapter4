@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/bootstrap.html" line="95" />
+    <bookmark url="file://$PROJECT_DIR$/bootstrap.html" line="96" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2565dd79-9267-4505-9a4c-7fb517a82ff0" name="Default" comment="">
+    <list default="true" id="2565dd79-9267-4505-9a4c-7fb517a82ff0" name="Default" comment="Using Bootstrap to Create Grids - Listing 4-9.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.html" afterPath="$PROJECT_DIR$/bootstrap.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -82,8 +82,8 @@
       <file leaf-file-name="bootstrap.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9189189" vertical-offset="2346" max-vertical-offset="2952">
-              <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+            <state vertical-scroll-proportion="-0.013513514" vertical-offset="2256" max-vertical-offset="3492">
+              <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -488,7 +488,7 @@
       <workItem from="1403629070220" duration="76000" />
       <workItem from="1403629185367" duration="337000" />
       <workItem from="1403629531948" duration="46000" />
-      <workItem from="1403630597884" duration="9909000" />
+      <workItem from="1403630597884" duration="10963000" />
     </task>
     <task id="LOCAL-00001" summary="Understanding HTML - Listing 4-1.">
       <created>1403632536113</created>
@@ -514,11 +514,15 @@
       <created>1403646628389</created>
       <updated>1403646628389</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Using Bootstrap to Create Grids - Listing 4-9.">
+      <created>1403646875363</created>
+      <updated>1403646875363</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11257000" />
+    <option name="totallyTimeSpent" value="12311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="948" extended-state="6" />
@@ -538,7 +542,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24334398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24334398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -591,8 +595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9189189" vertical-offset="2346" max-vertical-offset="2952">
-          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.013513514" vertical-offset="2256" max-vertical-offset="3492">
+          <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
           <folding />
         </state>
       </provider>

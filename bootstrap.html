@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap Examples</title>
     <link rel="stylesheet" href="bootstrap.css"/>
     <link rel="stylesheet" href="bootstrap-theme.css"/>
@@ -122,7 +123,7 @@
     <input class="btn btn-primary" value="Subscribe" type="submit"/>
 
     <div class="panel">
-        <h3 class="panel-header">Grid Layout</h3>
+        <h3 class="panel-header">Responsive Grid Layout</h3>
 
         <div id="gridContainer">
             <div class="row grid-row">
@@ -151,6 +152,35 @@
 
             <div class="row grid-row">
                 <div class="col-xs-12">12</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel">
+
+        <h3 class="panel-header">
+            Grid Layout
+        </h3>
+
+<!--
+        col-sm-* Grid cells are displayed horizontally when the screen width is greater than 768 pixels.
+        col-md-* Grid cells are displayed horizontally when the screen width is greater than 940 pixels.
+        col-lg-* Grid cells are displayed horizontally when the screen width is greater than 1170 pixels.
+-->
+
+        <div id="gridContainer">
+            <div class="row grid-row">
+                <div class="col-sm-3">3</div>
+                <div class="col-sm-4">4</div>
+                <div class="col-sm-5">5</div>
+            </div>
+            <div class="row grid-row">
+                <div class="col-sm-6">6</div>
+                <div class="col-sm-6">6</div>
+            </div>
+            <div class="row grid-row">
+                <div class="col-sm-11">11</div>
+                <div class="col-sm-1">1</div>
             </div>
         </div>
     </div>
